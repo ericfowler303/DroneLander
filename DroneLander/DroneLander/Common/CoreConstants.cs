@@ -22,4 +22,8 @@ namespace DroneLander.Common
         public const string AndroidAppId = "e0ab7ed3-99fc-4b7b-a224-c8382b36bcab";
         public const string iOSAppId = "";
     }
+    public static class MobileServiceConstants
+    {
+        public const string AppUrl = "https://efdronelander.azurewebsites.net";
+    }
 }
